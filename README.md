@@ -29,10 +29,10 @@ Hey there, Michael!
 
 Take a look at the code in the __grade.js__ file.
 
-The code instantiates a new `Gradebook` imported from the
+The code instantiates a new `GradeBook` imported from the
 __classes/gradebook.js__ file.
 
-If you run the __grade.js__ file with `node greet.js`, you will get an error.
+If you run the __grade.js__ file with `node grade.js`, you will get an error.
 
 Without modifying `GradeBook`, `grades`, or `gradesAvg`, can you correctly
 print out the average of the grades with and without a 20 point bonus? A correct
